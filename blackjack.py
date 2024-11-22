@@ -26,7 +26,7 @@ def vencedor():
         return print("Você perdeu! 😤")
 
 def dealer_draw():
-    if sum(oponentedeck) < 21:
+    if sum(oponentedeck) < 17:
         oponentedeck.append(random.choice(cards))
 
 def cartas_e_score(deck1, deck2):
