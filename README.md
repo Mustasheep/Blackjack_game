@@ -20,7 +20,7 @@ Blackjack, também conhecido como 21, é um jogo de cartas popular em cassinos a
 * Ultrapassar 21 somando as cartas da mão é considerado derrota imediata.
 
 
-* Caso o Deaper estoure junto contigo, não é considerado empate e você perde.
+* Caso o Dealer estoure junto contigo, não é considerado empate e você perde.
 
 
 * Tenha sorte e faça um Blackjack somando 21 com as cartas da sua mão.
