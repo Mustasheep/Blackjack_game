@@ -30,3 +30,9 @@ Blackjack, também conhecido como 21, é um jogo de cartas popular em cassinos a
 
 
 * Tenha sorte e faça um Blackjack somando 21 com as cartas da sua mão.
+
+
+_Bom Jogo!_
+
+-----------------------------
+![logo](logo.png)
