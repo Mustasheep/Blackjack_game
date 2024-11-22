@@ -14,6 +14,9 @@ Blackjack, também conhecido como 21, é um jogo de cartas popular em cassinos a
 * A randomização é igual para todas as cartas podendo se repetir.
 
 
+* Cada jogador recebe duas cartas e o dealer (croupier) também recebe duas cartas (uma virada para cima e outra para baixo).
+
+
 * Você verá apenas a primeira carta do Dealer, mesmo se ele comprar durante os turnos.
 
 
