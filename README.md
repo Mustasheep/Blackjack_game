@@ -35,4 +35,6 @@ Blackjack, também conhecido como 21, é um jogo de cartas popular em cassinos a
 _Bom Jogo!_
 
 -----------------------------
-![logo](logo.png)
+<div align="center">
+  <img src="logo.png" alt="logo do jogo">
+</div>
