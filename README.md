@@ -1,9 +1,9 @@
-# Blackjack
+# Blackjack ♠️
 
 Blackjack, também conhecido como 21, é um jogo de cartas popular em cassinos ao redor do mundo. O objetivo do jogo é ter uma mão com um valor mais próximo de 21 do que a mão do dealer (croupier), sem ultrapassar 21 (o que resulta em "estourar").
 
 
-## Regras do jogo no código
+## Regras do jogo no código 📜
 
 * O Às pode possuir os seguintes valores: 1 se sua mão ouver outro Às ou valores altos, como duas cartas de n°10. Caso contrário, valerá 11.
 
