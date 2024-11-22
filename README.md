@@ -17,6 +17,9 @@ Blackjack, também conhecido como 21, é um jogo de cartas popular em cassinos a
 * Você verá apenas a primeira carta do Dealer, mesmo se ele comprar durante os turnos.
 
 
+* A cada turno, você poderá escolher entre comprar uma nova carta ou finalizar sua mão, apresentando o resultado.
+
+
 * Ultrapassar 21 somando as cartas da mão é considerado derrota imediata.
 
 
